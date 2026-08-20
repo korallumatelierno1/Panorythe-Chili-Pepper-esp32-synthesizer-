@@ -1,6 +1,6 @@
-Hear it : https://youtube.com/shorts/SDnijRkEIck?si=f2w79CJxlE3ldQML
+Hear it : [https://youtube.com/shorts/SDnijRkEIck?si=f2w79CJxlE3ldQML](https://youtu.be/GHCvBX1ajr0)
 
-What if building your own synthesizer was as simple as connecting a few touch electrodes and starting to code?
+What if building your own hand pan was as simple as connecting a few touch electrodes and starting to code?
 
 Chili Pepper is an ESP32-S3 development board designed specifically for building electronic instruments, synthesizers, and touch controllers.
 
