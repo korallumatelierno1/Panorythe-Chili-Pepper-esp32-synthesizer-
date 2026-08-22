@@ -14,6 +14,8 @@ Connect your electrodes, upload the code, and start playing.
 How to upload code on Chili Pepper
 Board name on Arduino : ESP32S3 Dev Module
 
+Install Adafruit_MPR121 library 
+
 Upload profile (midi enabled) :
 
 ->tools 
